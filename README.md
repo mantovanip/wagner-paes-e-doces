@@ -1,17 +1,40 @@
 # Wagner Pães e Doces
 
-Site institucional desenvolvido pela **Mantovani SYS** para a Wagner Pães e Doces, em Içara — SC.
+> Site institucional desenvolvido pela **Mantovani SYS** para a Wagner Pães e Doces, em Içara — SC.
 
-## Projeto
+## Visão geral
 
-- Repositório: https://github.com/mantovanip/wagner-paes-e-doces
-- Projeto web responsivo
-- Apresentação de produtos
-- Seção de encomendas
-- Integração com WhatsApp
-- Avaliações e presença digital
-- Localização com Google Maps
-- SEO básico
+Projeto web responsivo criado para apresentar produtos, encomendas, localização e canais de contato.
+
+## Recursos implementados
+
+- Landing page institucional
+- Hero comercial
+- Apresentação da marca
+- Catálogo de produtos
+- Tortas e bolos
+- Doces
+- Salgados
+- Pães
+- Café e lanches
+- Área de encomendas
+- WhatsApp para pedidos
+- Telefone
+- Avaliações e prova social
+- Google Maps incorporado
+- Endereço e horários
+- Navegação responsiva
+- SEO e Open Graph
+- Google Fonts
+
+## Informações
+
+| Item | Informação |
+|---|---|
+| Empresa | Wagner Pães e Doces |
+| Cidade | Içara — SC |
+| Telefone | (48) 3432-5187 |
+| Localização | Rodovia Paulino Búrigo — SC-445, 10.594 |
 
 ## Tecnologias
 
@@ -19,30 +42,31 @@ Site institucional desenvolvido pela **Mantovani SYS** para a Wagner Pães e Doc
 - CSS3
 - JavaScript
 - Google Fonts
+- Google Maps Embed
+- Open Graph
 
-## Publicação
+## Estrutura
 
-Este projeto faz parte do novo padrão de publicação da Mantovani SYS para sites estáticos:
-
+```text
+wagner-paes-e-doces/
+├── index.html
+├── style.css
+└── script.js
 ```
-GitHub
-  ↓
-GitHub Actions
-  ↓
-GitHub Pages
-```
 
-## Desenvolvimento
+## Autoria
 
-Abra os arquivos do projeto em um servidor local para testar alterações antes da publicação.
+**Desenvolvimento, design e implementação**
 
-## Observação
+### Paulo Mantovani — Mantovani SYS
 
-O README anterior apontava para Vercel. A hospedagem dos sites institucionais está sendo padronizada em **GitHub Pages** para reduzir dependências e manter o código e a publicação no mesmo ecossistema.
+GitHub: https://github.com/mantovanip  
+Site: https://mantovanisys.com.br
 
-Informações comerciais, contatos, horários, produtos e avaliações devem ser confirmados antes da publicação definitiva.
+## Status
+
+Projeto em evolução conforme validação das informações comerciais e publicação.
 
 ---
 
-**Mantovani SYS**  
-https://mantovanisys.com.br
+**Mantovani SYS · Desenvolvimento Web**
